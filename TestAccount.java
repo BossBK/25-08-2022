@@ -1,3 +1,7 @@
+/*Question - To create a bankaccount test to deposit, withdraw, checkbalence in an account*/
+
+
+
 package com.inherit.demo;
 
 import java.util.Scanner;
